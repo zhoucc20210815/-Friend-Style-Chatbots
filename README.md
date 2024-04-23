@@ -21,5 +21,8 @@ This folder contains files for chatbot projects developed based on chatterbot an
 ### Results:
 - **Results folder:** `Experimental_results_screenshots`.
 
+### Report:
+- **PDF file:** `2023_Project_essay_Zixi_Zhou.pdf`.
+
 ## Python Version Requirement
 All code is built to run on **Python 3.11.5** except for the `Friends_Chatterbot.ipynb` file, which runs on **Python 3.8.18**. Please ensure your Python environment meets this version requirement.
